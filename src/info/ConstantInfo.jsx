@@ -1,8 +1,8 @@
 // info/ConstantInfo.js
 const ConstantInfo = {
   // База
-  apiBaseUrl: 'http://localhost:8086',
-  fileDir: 'http://localhost:8086/',
+  apiBaseUrl: 'http://45.146.164.123:8086',
+  fileDir: 'http://45.146.164.123:8086/',
 
   // Авторизация
   restApiLogin: '/v1/auth/login',
